@@ -1,3 +1,18 @@
 /*
  * Write your own styles in this file
  */
+@media (min-width: 992px) { ... }
+.w1{
+    background: #0a53be;
+}
+
+.w2{
+    background: #0dcaf0;
+}
+
+
+.titel{
+    display: flex;
+    justify-content: center;
+
+}
